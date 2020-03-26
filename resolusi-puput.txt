@@ -1,0 +1,4 @@
+resolusi puput 
+- satu
+- dua
+- tiga
